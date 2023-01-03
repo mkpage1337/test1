@@ -4,10 +4,10 @@ kowqjeokqw njksadn rijwenjkrwn n
 
 ## technologies
 
--html
--css
--scss
--js
--C++
+- html
+- css
+- scss
+- js
+- C++
 
 111
